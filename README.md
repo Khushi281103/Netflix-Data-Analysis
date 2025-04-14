@@ -22,7 +22,6 @@ Visual graphs and charts created using Matplotlib and Seaborn.
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Data visualization techniques
-- Power BI dashboard creation
 
 ## 🧑‍💻 Author
 Khushi – Data Engineering Intern at Rishabh Software  
